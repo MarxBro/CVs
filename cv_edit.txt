@@ -1,0 +1,97 @@
+Currículum Vitae
+Información Personal
+Nombre y Apellido Gustavo Yzaguirre López.
+Nacionalidad Argentino.
+Fecha de Nacimiento 03/04/1988.
+Teléfono Particular 4-257-0259.
+Celular 15 3648 3049.
+E-Mail gustavoyzaguirre@gmail.com
+E-Mail2 g@yzaguirre.com.ar
+GitHub MarxBro
+Zona de Residencia Quilmes Oeste, Buenos Aires, Argentina.
+
+Perfil Técnico
+Sistemas Operativos
+Administrador de servidores (web, correo, SQL, ftp, ldap, rsync) especializado
+en FOSS y sistemas GNU-Linux/UNIX.
+Implementación, diseño y resolución de problemas de redes.
+Desarrollo
+Desarrollador en Perl, PHP, Bash/sh, HTML, css, Haskell, Python, js y Java.
+Diseño de sistemas y aplicaciones.
+Experiencia trabajando con arquitecturas de software como MVC y clienteservidor.
+Experiencia trabajando con distintos modelos de desarrollo (funcional, POO,
+modular).
+Investigador en seguridad informática.
+Manejo avanzado de software de edición multimedial, gestión, oficina y desarrollo.
+
+1
+
+Actualidad
+Desde Febrero del 2012 trabajo en la Universidad Nacional del Arte, dentro
+del Área Transdepartamental de Artes Multimediales, donde desarrollo
+y pongo en práctica soluciones informáticas -basadas en software libre- a las
+problemáticas y necesidades de la comunidad académica.
+En paralelo, trabajo como freelance dedicado a la web (backend y frontend,
+en distintos lenguajes) y los sistemas Linux (administración, optimización, escalamiento, performance).
+
+Experiencia
+• Abril 2016 - actualidad Formo parte de la comunidad de Perl Porters y
+mantengo proyectos propios y de terceros.
+• Septiembre 2013 - actualidad Administrador de las plataformas de educación virtual del ATAM.
+• Febrero 2012 - actualidad Administrador del servidor del ATAM (que
+incluye servicios de correo, alojamiento de archivos, CMS y plataformas
+web, sistema de newsletter entre otros recursos desarrollados bajo mi
+coordinación).
+• Enero 2011 - actualidad Freelancer. Colaborador y Desarrollador en proyectos de terceros.
+• Junio 2010 - Diciembre 2011. Desarrollador de mi propia distribución
+Linux (inactiva, en base a Puppy Linux y Knoppix).
+• Mayo 2010 - actualidad Desarrollador, Proyectos Software Libre, Distribuciones Linux/GNU. Desarrollador, Administrador y Traductor.
+• Mayo 2008 - 2009 Empleado, Club Azzuro, CABA, Argentina. Docente de
+Música - Nivel Inicial.
+
+Educación
+• 2006 - 2011 Licenciatura en Composición con Medios Electroacústicos, Universidad Nacional de Quilmes (UNQ), Quilmes, Argentina.
+• Título de grado. 2006 - 2010 Diplomatura en Música y Tecnología,
+Universidad Nacional de Quilmes (UNQ), Quilmes, Argentina. Título
+Intermedio.
+• 2002 - 2005 Polimodal, Colegio San Felipe Benizi, Quilmes, Argentina.
+Orientación Humanidades y Cs. Sociales. Estudios Secundarios completos.
+
+2
+
+Idiomas
+• Español Nativo.
+• Inglés Fluido.
+– Cambridge First Certificate in English FCE. 2014.
+– Nivel de Sufuciencia Universidad Nacional de Quilmes (UNQ). 2011.
+
+Otras experiencias y capacitaciones
+• 2015 Machine Learning
+Finalicé el curso de la Universidad de Stanford a cargo del profesor Andrew
+Ng en la plataforma Coursera.
+• 2014 DMC: Digital Marketing Conference
+Asistí a la conferencia y representé a la universidad en el stand del ATAMUNA.
+• 2014 “Understanding Tor”
+Asistí y fui parte del equipo que presentó Tor y sus cualidades a un grupo
+de periodistas en la jornada sobre Privacidad informática en el hotel San
+Raphael en Sao Paulo, Brasil.
+• 2014 “Jornadas de Vinculación Tecnológica e Innovación”
+Asistí a las Jornadas de Vinculación acerca del reposicionamiento social de
+la universidad contemporánea en el Salón de los Vitrales del Rectorado de
+la UNA.
+• 2013 Tecnologias de Informática y Comunicación en la Educación
+Finalicé el curso de la Universidad Nacional Autónoma de México a cargo
+de la profesora Larisa Enríquez en la plataforma Coursera.
+• 2012 PyConAr 2012
+Asistí a la conferencia sobre Python en la UNQ.
+• 2012 Compositor Freelance
+Trabajé componiendo la música de videojuegos para celulares.
+• 2012 Webmaster, publicador y desarrollador
+Tuve una página web acerca de Puppy Linux (una distribución GNU/Linux).
+En ella describía las generalidades del sistema, compilaba software, publicaba contenido y programas propios para la comunidad.
+Mantuve mi propia distribución derivada por un tiempo y ayudé a traducir
+la documentación del software que incluía en general.
+
+3
+
+

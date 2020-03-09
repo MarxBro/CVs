@@ -1,0 +1,584 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style french
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Curriculum Vitae
+\end_layout
+
+\begin_layout Author
+Gustavo Yzaguirre
+\end_layout
+
+\begin_layout Subsection*
+Información Personal 
+\end_layout
+
+\begin_layout Description
+
+\series bold
+Nombre
+\begin_inset space ~
+\end_inset
+
+y
+\begin_inset space ~
+\end_inset
+
+Apellido
+\series default
+ Gustavo Yzaguirre López.
+ 
+\end_layout
+
+\begin_layout Description
+Nacionalidad Argentino.
+ 
+\end_layout
+
+\begin_layout Description
+Fecha
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+Nacimiento 03/04/1988.
+ 
+\end_layout
+
+\begin_layout Description
+Teléfono
+\begin_inset space ~
+\end_inset
+
+celular 15 2400 6103.
+ 
+\end_layout
+
+\begin_layout Description
+E-Mail gustavoyzaguirre@gmail.com 
+\end_layout
+
+\begin_layout Description
+E-Mail
+\begin_inset space ~
+\end_inset
+
+UNA administrador@atamvirtual.com.ar
+\end_layout
+
+\begin_layout Description
+Zona
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+Residencia Quilmes Oeste, Buenos Aires, Argentina.
+\end_layout
+
+\begin_layout Subsection*
+Perfil Técnico 
+\end_layout
+
+\begin_layout Paragraph*
+Sistemas Operativos
+\end_layout
+
+\begin_layout Standard
+Administrador de servidores (web, correo, SQL, ftp, ldap, rsync) especializado
+ en FOSS y sistemas GNU-Linux/UNIX.
+ Implementación, diseño y resolución de problemas de redes.
+ 
+\end_layout
+
+\begin_layout Paragraph*
+Desarrollo 
+\end_layout
+
+\begin_layout Standard
+Desarrollador en Perl, PHP, Bash/sh, HTML, css, Haskell, Python, js y Java.
+ Diseño de sistemas y aplicaciones.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Experiencia trabajando con arquitecturas de software como MVC y cliente-servidor.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Experiencia trabajando con distintos modelos de desarrollo (funcional, POO,
+ modular).
+ 
+\begin_inset Newline newline
+\end_inset
+
+Investigador en seguridad informática.
+ 
+\begin_inset Newline newline
+\end_inset
+
+Manejo avanzado de software de edición multimedial, gestión, oficina y entornos
+ de desarrollo y producción informática y artística.
+\end_layout
+
+\begin_layout Subsection*
+Actualidad 
+\end_layout
+
+\begin_layout Standard
+Desde Febrero del 2012 trabajo en la 
+\series bold
+Universidad Nacional del Arte
+\series default
+, dentro del 
+\series bold
+Área Transdepartamental de Artes Multimediales
+\series default
+, donde desarrollo y pongo en práctica soluciones informáticas a las problemátic
+as y necesidades de la comunidad académica siempre tomando como paradigma
+ y base al software libre y de código abierto.
+ 
+\begin_inset Newline newline
+\end_inset
+
+En paralelo trabajo como freelance dedicado a la web (backend y frontend,
+ en distintos lenguajes) y los sistemas Linux (administración, optimización,
+ escalamiento, performance).
+\end_layout
+
+\begin_layout Subsection*
+Experiencia 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Abril 2016 - actualidad
+\series default
+ Formo parte de la comunidad de Perl Porters y mantengo proyectos propios
+ y de terceros.
+ • Septiembre 2013 - actualidad Administrador de las plataformas de educación
+ virtual del ATAM.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Febrero 2012 - actualidad
+\series default
+ Administrador del servidor del ATAM (que incluye servicios de correo, alojamien
+to de archivos, CMS y plataformas web, sistema de newsletter entre otros
+ recursos desarrollados bajo mi coordinación).
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Enero 2011 - actualidad
+\series default
+ Freelancer.
+ Colaborador y Desarrollador en proyectos de terceros.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Junio 2010 - Diciembre 2011
+\series default
+ Desarrollador de mi propia distribución Linux (inactiva, en base a Puppy
+ Linux y Knoppix).
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Mayo 2010 - actualidad
+\series default
+ Desarrollador, Proyectos Software Libre, Distribuciones Linux/GNU.
+ Desarrollador, Administrador y Traductor.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Mayo 2008 - 2009 Empleado
+\series default
+ Club Azzuro, CABA, Argentina.
+ Docente de Música - Nivel Inicial.
+\end_layout
+
+\begin_layout Subsection*
+Educación 
+\end_layout
+
+\begin_layout Itemize
+2006 - 2011 
+\series bold
+Licenciatura en Composición con Medios Electroacústicos
+\series default
+, Universidad Nacional de Quilmes (UNQ), Quilmes, Argentina.
+ Título de grado.
+\end_layout
+
+\begin_layout Itemize
+2006 - 2010 
+\series bold
+Diplomatura en Música y Tecnología
+\series default
+, Universidad Nacional de Quilmes (UNQ), Quilmes, Argentina.
+ Título Intermedio.
+ 
+\end_layout
+
+\begin_layout Itemize
+2002 - 2005 Polimodal, Colegio San Felipe Benizi, Quilmes, Argentina.
+ Orientación Humanidades y Cs.
+ Sociales.
+ Estudios Secundarios completos.
+\end_layout
+
+\begin_layout Subsection*
+Idiomas 
+\end_layout
+
+\begin_layout Itemize
+
+\series bold
+Inglés
+\series default
+ Fluido.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Cambridge First Certificate in English FCE.
+ 2014.
+ 
+\end_layout
+
+\begin_layout Itemize
+Nivel de Sufuciencia Universidad Nacional de Quilmes (UNQ).
+ 2011.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\series bold
+Español
+\series default
+ Nativo.
+ 
+\end_layout
+
+\begin_layout Subsection*
+Otras experiencias y capacitaciones
+\end_layout
+
+\begin_layout Description
+2019
+\begin_inset space ~
+\end_inset
+
+Podcast
+\begin_inset space ~
+\end_inset
+
+educativo Co-desarrollé, implementé y edito habitualmente un podcast para
+ estudiantes de chino mandarín (speakchinesenaturally.com).
+ 
+\end_layout
+
+\begin_layout Description
+2018
+\begin_inset space ~
+\end_inset
+
+Backpack.tf Desarrollé un software para el análisis de tendencias en las
+ microtransacciones de videojuegos (TF2).
+ 
+\end_layout
+
+\begin_layout Description
+2017
+\begin_inset space ~
+\end_inset
+
+UVQ Análisis y Desarrollo, Universidad Virtual de Quilmes, Prov.
+ Bs.As.
+ Sistema web de autoría y adaptación de contenidos para los cursos virtuales.
+ 
+\end_layout
+
+\begin_layout Description
+2016
+\begin_inset space ~
+\end_inset
+
+Atamishky Desarrollé un software para referencias y administración de contenidos
+ bibliográficos en el marco de la comunidad educativo donde trabajo (UNA
+ - MediaLab).
+ 
+\end_layout
+
+\begin_layout Description
+2015
+\begin_inset space ~
+\end_inset
+
+Etihad Formé parte del equipo que realizó la migración masiva a MariaDB
+ (base de datos).
+\end_layout
+
+\begin_layout Description
+2015
+\begin_inset space ~
+\end_inset
+
+Machine
+\begin_inset space ~
+\end_inset
+
+Learning Finalicé el curso de la Universidad de Stanford a cargo del profesor
+ Andrew Ng en la plataforma Coursera.
+ 
+\end_layout
+
+\begin_layout Description
+2014
+\begin_inset space ~
+\end_inset
+
+DMC:
+\begin_inset space ~
+\end_inset
+
+Digital
+\begin_inset space ~
+\end_inset
+
+Marketing
+\begin_inset space ~
+\end_inset
+
+Conference Asistí a la conferencia y representé a la universidad en el stand
+ del ATAM/UNA.
+ 
+\end_layout
+
+\begin_layout Description
+2014
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Understanding
+\begin_inset space ~
+\end_inset
+
+Tor” Asistí y fui parte del equipo que presentó Tor y sus cualidades a un
+ grupo de periodistas en la jornada sobre Privacidad informática en el hotel
+ San Raphael en Sao Paulo, Brasil.
+ 
+\end_layout
+
+\begin_layout Description
+2014
+\begin_inset space ~
+\end_inset
+
+“Jornadas
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+Vinculación
+\begin_inset space ~
+\end_inset
+
+Tecnológica
+\begin_inset space ~
+\end_inset
+
+e
+\begin_inset space ~
+\end_inset
+
+Innovación” Asistí a las Jornadas de Vinculación acerca del reposicionamiento
+ social de la universidad contemporánea en el Salón de los Vitrales del
+ Rectorado de la UNA.
+ 
+\end_layout
+
+\begin_layout Description
+2013
+\begin_inset space ~
+\end_inset
+
+Tecnologias
+\begin_inset space ~
+\end_inset
+
+de
+\begin_inset space ~
+\end_inset
+
+Informática
+\begin_inset space ~
+\end_inset
+
+y
+\begin_inset space ~
+\end_inset
+
+Comunicación
+\begin_inset space ~
+\end_inset
+
+en
+\begin_inset space ~
+\end_inset
+
+la
+\begin_inset space ~
+\end_inset
+
+Educación Finalicé el curso de la Universidad Nacional Autónoma de México
+ a cargo de la profesora Larisa Enríquez en la plataforma Coursera.
+ 
+\end_layout
+
+\begin_layout Description
+2012
+\begin_inset space ~
+\end_inset
+
+PyConAr
+\begin_inset space ~
+\end_inset
+
+2012 Asistí a la conferencia sobre Python en la UNQ.
+ 
+\end_layout
+
+\begin_layout Description
+2012
+\begin_inset space ~
+\end_inset
+
+Webmaster,
+\begin_inset space ~
+\end_inset
+
+publicador
+\begin_inset space ~
+\end_inset
+
+y
+\begin_inset space ~
+\end_inset
+
+desarrollador Tuve una página web acerca de Puppy Linux (una distribución
+ GNU/Linux).
+ En ella describía las generalidades del sistema, compilaba software, publicaba
+ contenido y programas propios para la comunidad.
+ Mantuve mi propia distribución derivada por un tiempo y ayudé a traducir
+ la documentación del software que incluía en general.
+\end_layout
+
+\end_body
+\end_document
