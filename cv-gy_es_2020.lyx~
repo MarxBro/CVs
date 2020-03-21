@@ -53,8 +53,7 @@
 \justification true
 \use_refstyle 1
 \use_minted 0
-\fontcolor #080808
-\notefontcolor #9c9c9c
+\fontcolor #1e1e1e
 \index Index
 \shortcut idx
 \color #008000
@@ -104,6 +103,7 @@ status open
 
 \begin_layout Plain Layout
 
+\series bold
 
 \backslash
 dotfill
@@ -132,6 +132,7 @@ status open
 
 \begin_layout Plain Layout
 
+\series bold
 
 \backslash
 dotfill
@@ -168,6 +169,7 @@ status open
 
 \begin_layout Plain Layout
 
+\series bold
 
 \backslash
 dotfill
@@ -200,6 +202,7 @@ status open
 
 \begin_layout Plain Layout
 
+\series bold
 
 \backslash
 dotfill
@@ -228,6 +231,7 @@ status open
 
 \begin_layout Plain Layout
 
+\series bold
 
 \backslash
 dotfill
@@ -259,6 +263,7 @@ status open
 
 \begin_layout Plain Layout
 
+\series bold
 
 \backslash
 dotfill
@@ -294,6 +299,7 @@ status open
 
 \begin_layout Plain Layout
 
+\series bold
 
 \backslash
 dotfill
